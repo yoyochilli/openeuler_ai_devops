@@ -25,7 +25,7 @@
 
 ## 系统架构 / Architecture
 
-![架构图](https://github.com/yoyochilli/openeuler_ai_devops/architecture.png)
+![架构图](architecture.png)
 
 ## 技术栈 / Tech Stack
 
