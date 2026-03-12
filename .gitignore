@@ -1,0 +1,18 @@
+# Python 虚拟环境
+/venv
+/langchain_env
+
+# API Keys and local configurations
+.env
+
+# PyCharm/VSCode 编辑器配置
+.idea/
+.vscode/
+
+# Python 缓存文件
+__pycache__/
+*.pyc
+
+# 知识库和模型缓存
+/local_kb
+/.cache
